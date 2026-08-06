@@ -34,7 +34,7 @@
     color: #b4a270;
 }
 
-button[type="submit"] {
+.btn-navy {
     background-color: #1c3b5e;   
     color: white;
     padding: 12px 28px;
@@ -44,11 +44,11 @@ button[type="submit"] {
     cursor: pointer;
 }
 
-button[type="submit"]:hover {
+.btn-navy:hover {
     background-color: #2bebff;
     }
 
-button[type="submit"]:focus {
+.btn-navy:focus {
     outline: 7px solid #e56b19;
 }
 
