@@ -1,12 +1,4 @@
-.project-card-link {
-    display: block;
-    height: 100%;
-    text-decoration: none;
-    color: inherit;
-}
-
 .project-card {
-    background: #ffffff;
     border-radius: 8px;
     overflow: hidden;
     border: 1px solid #ddd;
@@ -58,11 +50,8 @@ body {
 }
 
 .navbar-custom {
-    position: sticky;
-    top: 0;
     background-color: #1c3b5e;
     padding: 12px 24px;
-    z-index: 1000;
 }
 
 .navbar-custom .navbar-nav .nav-link {
